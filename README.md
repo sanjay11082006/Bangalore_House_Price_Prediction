@@ -16,6 +16,5 @@ A Machine Learning web application that estimates real estate prices in Bangalor
 1. Clone the repository.
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
-   streamlit run app.py
-   
+   python house_price_analysis.py
+   python -m streamlit run app.py
